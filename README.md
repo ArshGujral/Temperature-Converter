@@ -18,7 +18,7 @@
 
 ### Alternate Way: Access the Live Application
 
-1. Visit the live application by clicking on the following link: [Temperature Converter](https://arshgujral.github.io/temperature-converter/)
+1. Visit the live application by clicking on the following link: [Temperature Converter](https://arshgujral.github.io/Temperature-Converter/)
 2. Enter the temperature value you want to convert.
 3. Select the initial temperature unit from the dropdown menu.
 4. Click the "Convert" button to see the equivalent values in other units.
