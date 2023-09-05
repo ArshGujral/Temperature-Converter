@@ -48,7 +48,7 @@ convertBtn.addEventListener('click', () => {
             kelvinResultBox.classList.add('show', 'kelvin-box');
         }
     } else {
-        // Hide the result boxes and show "Invalid input" message
+
         celsiusResultBox.classList.remove('show', 'celsius-box');
         fahrenheitResultBox.classList.remove('show', 'fahrenheit-box');
         kelvinResultBox.classList.remove('show', 'kelvin-box');
@@ -59,7 +59,7 @@ convertBtn.addEventListener('click', () => {
 });
 
 temperatureInput.addEventListener('input', () => {
-    // Hide the result boxes when input changes
+    
     celsiusResultBox.classList.remove('show', 'celsius-box');
     fahrenheitResultBox.classList.remove('show', 'fahrenheit-box');
     kelvinResultBox.classList.remove('show', 'kelvin-box');
